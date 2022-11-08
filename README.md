@@ -2,7 +2,7 @@
 
 <br>
  
-<img height='123' src="Image/life.jpg"/>
+<img src="Image/life-expectancy-decline.jpg"/>
 
 <br>
 
