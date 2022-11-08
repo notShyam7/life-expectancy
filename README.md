@@ -1,2 +1,2 @@
-# life-expectancy
+# Life Expectancy
 Exploratory Data Analysis
