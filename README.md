@@ -1,5 +1,9 @@
 ## <p align="center"> Life Expectancy <p>
-Exploratory Data Analysis
+
 <br>
  
-<img src="Image/life.jpg"/>
+<img height='123' src="Image/life.jpg"/>
+
+<br>
+
+## Exploratory Data Analysis
